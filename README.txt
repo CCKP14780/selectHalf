@@ -1,0 +1,1 @@
+This tool help user to select half the vertices of the mesh.
